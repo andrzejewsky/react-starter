@@ -1,0 +1,6 @@
+
+// demos
+export const START_LOAD_DEMOS = 'START_LOAD_DEMOS';
+export const LOAD_DEMOS_COMPLETED = 'LOAD_DEMOS_COMPLETED';
+export const LOAD_DEMOS_ERROR = 'LOAD_DEMOS_ERROR';
+export const CLICK_ELEMENT = 'CLICK_ELEMENT';
